@@ -1,5 +1,5 @@
 {
-    "name": "cybercog/laravel-likeable",
+    "name": "loafer19/laravel-likeable",
     "description": "Make Laravel Eloquent models Likeable & Dislikeable in a minutes!",
     "type": "library",
     "license": "MIT",
