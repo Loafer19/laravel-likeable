@@ -27,9 +27,15 @@
             "email": "anton@komarev.com",
             "homepage": "https://komarev.com",
             "role": "Developer"
+        },
+        {
+            "name": "Ruslan Popelyshyn",
+            "email": "platonpopelishin@gmail.com",
+            "homepage": "",
+            "role": "Developer"
         }
     ],
-    "homepage": "https://github.com/cybercog/laravel-likeable",
+    "homepage": "https://github.com/Loafer19/laravel-likeable",
     "support": {
         "email": "open@cybercog.su",
         "issues": "https://github.com/cybercog/laravel-likeable/issues",
@@ -38,9 +44,7 @@
         "docs": "https://github.com/cybercog/laravel-likeable/wiki"
     },
     "require": {
-        "php": "^5.6|^7.0",
-        "illuminate/database": "~5.1.20|~5.2|~5.3|~5.4|~5.5",
-        "illuminate/support": "~5.1.20|~5.2|~5.3|~5.4|~5.5"
+        "php": "^5.6|^7.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^1.11",
